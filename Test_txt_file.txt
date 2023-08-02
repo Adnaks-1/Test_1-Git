@@ -1,7 +1,0 @@
-This is a sample text 
-
-This is the second line added
-
-No more things need to be added
-
-Or should there be more things?
